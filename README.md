@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amoretvita
+- 👀 I’m interested in techonology...
+- 🌱 I’m currently learning Cloud Computing and Software Testing...
+- 📫 Reach me at my email banaagjakem@gmail.com...
+
+<!---
+amoretvita/amoretvita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
